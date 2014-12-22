@@ -35,9 +35,27 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Articles to be enquired of, in the ordinarie visitation of the most reuerend father in God, George b
+ARTICLES TO BE ENQVIRED OF, IN THE ORDINARIE Visitation of the most Reuerend Father in God, GEORGE b
+1. The Tenor of the Oath, to bee ministred to the Church-wardens and Side-men.
+
 #####Body#####
-Articles to be enquired of, in the ordinarie visitation of the most reuerend father in God, George b
+
+1. I. Concerning the Ministers.
+
+1. II. Concerning the Church, the Ornaments thereof, and the Churches possessions.
+
+1. III. Schoole-Masters.
+
+1. IIII. Parish-Clerkes, and Sextons.
+
+1. V. Physicians, Surgeons, and Mid-vviues.
+
+1. VI. Touching the Church-wardens and Sidemen.
+
+1. VII. Concerning the Parishoners.
+
+1. VIII. Concerning Ecclesiasticall Magistrates and Officers.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
