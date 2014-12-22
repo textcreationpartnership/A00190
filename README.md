@@ -35,7 +35,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-ARTICLES TO BE ENQVIRED OF, IN THE ORDINARIE Visitation of the most Reuerend Father in God, GEORGE b
+
 1. The Tenor of the Oath, to bee ministred to the Church-wardens and Side-men.
 
 #####Body#####
